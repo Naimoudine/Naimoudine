@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naïmoudine SAIDI</h1>
-<h3 align="center">I'am a young developer from France</h3>
+<h1 align="center">Naïmoudine SAIDI</h1>
+<h3 align="center">Hi, Naïmoudine a young developer from France. My goal is to become the best web developer that i can be and to achieve that I'am learning, traning and discovering technologies in order to make good, fonctional and easy to use websites.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
